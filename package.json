@@ -1,0 +1,18 @@
+{
+  "name": "productform",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "angular-formly": "^8.0.0",
+    "angular-formly-templates-bootstrap": "^6.3.0",
+    "api-check": "^7.5.5",
+    "bootstrap": "^3.3.6",
+    "express": "^4.13.4"
+  }
+}
